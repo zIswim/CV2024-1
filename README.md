@@ -23,7 +23,7 @@ https://midnight-ogre-836.notion.site/394bdcd7ed014c6689059a2d2dd4f455?pvs=4
 <br>
 <br>
 <h3>과제 3</h3><br>
-Apple leaf disease를 분류하기 위한 모델을 만들고 학습하는 프로그램을 작성하시오. 또한 GUI를 부착한 프로그램을 작성하시오.
+Apple leaf disease를 분류하기 위한 모델을 만들고 학습하는 프로그램을 작성하시오. 또한 GUI를 부착한 프로그램을 작성하시오.<br>
 
 (1) https://www.kaggle.com/datasets/rm1000/apple-disease-dataset-original에서 제공하는 데이터셋을 사용하세요. (train set과 test set이 분할되어 있음을 감안해야 함) 
 
